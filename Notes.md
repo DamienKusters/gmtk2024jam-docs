@@ -8,7 +8,6 @@ The theme: **Built to Scale**
 - ~~[Everything](https://www.youtube.com/watch?v=hadCMVgJgfU) Also got featured in the GMTK announcement.~~
 - build something, like building that must grow
 - ~~[Bubble Tanks](https://www.google.com/search?q=bubbletanks&client=firefox-b-d&sca_esv=5f833fc7e19dbbb8&sca_upv=1&udm=2&biw=2144&bih=1077&sxsrf=ADLYWIKkjN1J2RJrQbWmtCG_ZlZAiX5eYA%3A1723828564218&ei=VIm_ZrbvDP2B9u8P2OOWgAs&ved=0ahUKEwi26eTpgfqHAxX9gP0HHdixBbAQ4dUDCBA&uact=5&oq=bubbletanks&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2J1YmJsZXRhbmtzMgkQABiABBgYGAoyCRAAGIAEGBgYCkibFFDZBljnEnABeACQAQCYAUqgAeEFqgECMTG4AQPIAQD4AQGYAgugAooGwgIEECMYJ8ICChAAGIAEGEMYigXCAgUQABiABJgDAIgGAZIHAjExoAeBMw&sclient=gws-wiz-serp)~~
-	- ~~![[2024-08-16 19-18-21.mp4]]~~
 	- ~~Game about shooting enemy bubbles, you steal their bubbles to grow and get upgrades.~~
 	- ~~Get shot and you will lose bubbles/abilities & scale~~
 - ~~Agar.io~~
