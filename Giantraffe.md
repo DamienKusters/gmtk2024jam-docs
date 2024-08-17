@@ -1,4 +1,4 @@
-The original concept was made with a Giraffe as a playable character. This has been changed to a Kraken being, with the Giraffe's neck representing a tentacle.
+The original concept was made with a Giraffe as a playable character. This has been changed to a Kraken being, with the Giraffe's neck representing a tentacle.<br/>
 ![](attachments/Pasted%20image%2020240817130947.png)
 ## Pitch
 You play as a ~~Giraffe~~ Divine being, having to eat entities in order to grow the max length of your tentacle.
@@ -65,6 +65,31 @@ Problem:
 
 Solutions:
 - Entities & Projectiles damage the main mouth piece instead of the tentacle, you must quickly act and eat the entities/projectiles before they hit the mouth piece. 
+##### Stages
+- Cell stage
+	- Blood cells
+	- White blood cells
+- Grass/bug stage???
+	- Flies
+	- ants
+	- Birds?
+	- Grasses
+- Civ stage
+	- Houses/ Buildings
+	- Birds
+	- Airplanes
+	- Helicopters
+- Star system stage (combine with Galaxy stage?)
+	- Planets
+	- Comets
+	- Ufos
+- Galaxy stage
+	- Galaxies
+	- Dyson spheres
+	- Black holes
+- Celestial Stage
+	- Gods
+- Cell stage -> wraps back to beginning
 ##### Foliage / Trees / Leaves / Grassy planets
 Eat foliage to grow the max stretch of the neck.
 This can be done with trees, floating leaves, defeating enemies drop leaves??? But also, in deep space you will be able to eat other grassy planets.
@@ -89,7 +114,8 @@ Get to choose offense/defence upgrades?
 ##### Bosses?
 On certain altitudes bosses may appear, being defeated will lower you to a previous altitude
 ## Art
-Cartoonish?
+~~Cartoonish?~~
+Retro Flash game style?
 ### Other Themes
 You play as a tentacle monster/god and control a tentacle. Instead of eating leaves, you need to grab and pull entities out of the air and drag them back to a mouth on the bottom of the screen in order to grow.
 ![](attachments/Pasted%20image%2020240817125308.png)

@@ -5,6 +5,8 @@ Brainstorming, concepting and draft ideas
 Finish and show concepts to other parties
 ## Afternoon
 Decide on an idea and start prototyping
+## Evening
+Extend planning
 # Sunday
 ## Morning
 ## Afternoon
