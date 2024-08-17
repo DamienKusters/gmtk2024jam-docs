@@ -45,30 +45,30 @@ The theme: **Built to Scale**
 - Scale man / Pixel man / Boogie man:
 	- Jump on / defeat enemies to steal their `pixels` or `bugs` to increase your own size.
 	- You will start off as a pixel guy, almost like thomas was alone:
-		- ![[ThomasWasAlone03-640x358.jpg]]
+		- ![](<./attachments/ThomasWasAlone03-640x358.jpg>)
 	- You will defeat enemies to increase in pixel density
-		- ![[player_walk.gif]]
+		- ![](<./attachments/player_walk.gi>)
 	- Eventually you will become an HD sprite
-		- ![[2707960_ef22_2.jpg]]
+		- ![](<./attachments/2707960_ef22_2.jpg>)
 	- Or even a 3d character
-		- ![[widen_920x0.jpg]]
+		- ![](<./attachments/widen_920x0.jpg>)
 	- Getting hit will result in you losing resources, so you will scale down again to a previous level
 	- Abilities are provided based how much resources you've gathered.
 		- For example; If your pixel man has legs, you can jump. If you are damaged enough ; you will lose the ability to jump untill you collect enough pixels to scale up again
-		- ![[Life_Noggin.webp]]
+		- ![](<./attachments/Pasted image Life_Noggin.webp>)
 	- Other styles:
-		- You play as boogie man collecting flies/bugs ![[Pasted image 20240816191738.png]]
+		- You play as boogie man collecting flies/bugs ![](<./attachments/Pasted image 20240816191738.png>)
 - Build a building on an actual scale, but don't tip the scale
-	- ![[Pasted image 20240816192559.png]]
+	- ![](<./attachments/Pasted image 20240816192559.png>)
 	- You play 2 characters make sure to distribute weight
 - Resource management game where you manage some resources on different scales.
 	- ...
 	- Colony builder on ant scale.
-		- ![[Pasted image 20240816194024.png]]
+		- ![](<./attachments/Pasted image 20240816194024.png>)
 	- Town builder on human scale.
-		-  ![[concept.png]]
+		-  ![[concept.png]]![](./attachments/concept.png)
 	- Solar system builder on planet scale
-		- ![[Pasted image 20240816194105.png]]
+		- ![](<./attachments/Pasted image 20240816194105.png>)
 	- ...
 	- They all influence each other
 		- Ants/bugs must survive to allow for fertile ground in the Town builder
@@ -76,23 +76,22 @@ The theme: **Built to Scale**
 		- The Ant & Solar scale allows you to build the Town.
 - ⭐Device maker
 	- Build devices that require smaller devices
-	- ![[1200px-SEG_DVD_430_-_Printed_circuit_board-4276.jpg]]
+	- ![alt text](attachments/1200px-SEG_DVD_430_-_Printed_circuit_board-4276.jpg)
 	- build components by drawing lines
-- ![[IMG_1005.jpg]]
+- ![](./attachments/IMG_1005.jpg)
 	- Pirate game -> increase fleet
 	- ⭐Giantraffe: Giraffe having to eat to get longer neck to eventually go to the moon.
 		- [Giantraffe](Giantraffe)
 		- Eat leaves to get bigger neck
 		- airplane rates your score
-		- ![[Pasted image 20240816214219.png]]
+		- ![alt text](<attachments/Pasted image 20240816214219.png>)
 	- Scales: Reptiles
 		- As currency?
 		- Build with Scales
-	- [This](https://www.youtube.com/watch?v=HhGp6BYNY-Q)
 	- Scale, gains, body builder.
 		- Get enough nutrients to build your body.
 	- Mario party minigame
-		- ![[maxresdefault.jpg]]
+		- ![](./attachments/maxresdefault.jpg)
 		- You get limited shapes, use those, tilt/scale to create image
 	- Music scale -> tones
 	- Scale(climb) a ladder:
@@ -105,11 +104,4 @@ The theme: **Built to Scale**
 	- Object/character that can scale but with downsides like more gravity/less gravity.
 		- You attract objects because you are so large
 	- Build stuff with atoms
-- [Jochem](https://www.youtube.com/watch?v=zaGaVHyW3ig "https://www.youtube.com/watch?v=zaGaVHyW3ig")
-
-#### Planning
-##### Friday
-##### Saturday
-##### Sunday
-##### Monday
-##### Tuesday
+- [Roblox game](https://www.youtube.com/watch?v=zaGaVHyW3ig "https://www.youtube.com/watch?v=zaGaVHyW3ig")

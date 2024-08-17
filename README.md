@@ -1,7 +1,7 @@
-- [Initial Notes & Brainstorm](Notes)
-- [Planning](Planning)
+- [Initial Notes & Brainstorm](Notes.md)
+- [Planning](Planning.md)
 
 # Chosen ideas
-- [Giraffe game](Giantraffe.md)
-- [Object Size Memory Rubik's Cube][Object Size Memory Rubik's Cube]
-- [Device Maker](Device Maker)
+- [Kraken game](Giantraffe.md)
+- [Object Size Memory Rubik's Cube](<Object Size Memory Rubik's Cube.md>)
+- ~~[Device Maker](<Device Maker.md>)~~
