@@ -8,6 +8,8 @@ You need to grab and pull entities out of the air and drag them back to a mouth 
 - Grow by eating anything in your path
 You start off small as a single cell organism, eventually growing to cosmic sizes.
 
+Gameplay: Bullethell
+
 ## Inspiration
 - [Feed Me](https://www.gameflare.com/online-game/feed-me/)
 - [Shooting and Controls](https://www.youtube.com/watch?v=Ny5L3QVMOf8)
@@ -57,15 +59,14 @@ Such entities can attack with projectiles
 - Comets will randomly appear from different angles
 	- https://www.youtube.com/watch?v=DF5_k5TAZPc
 
-#todo
-These kinds of projectiles can't be devoured;
-Problems:
-- How to split eatable entities from projectiles?
-- Comets are both entities and projectiles
-- Can the tentacle get hurt from the projectiles, or only the mouth piece?
+##### Projectiles
+Projectiles are emitted from dangerous entities. They can't be grabbed and will damage the Kraken when coming into collision with the `tip of the tentacle`.
+The arm of the tentacle & the mouth piece is not damaged by projectiles.
+- Reasons for this decision:
+	- Evading projectiles is player skill based. If the mouth piece was included this could be unfair and needs to be balanced with an option to block.
+	- Only the tip of the tentacle is affected, the rest of the tentacle is too large and also acts just as decoration.
 
-Solutions:
-- Projectiles damage the main mouth piece instead of the tentacle, it could drag/**slap** away projectiles from the mouth piece.
+Projectiles **MUST** be highly visible to be distinguished from entities. Use: shaders and/or trails
 
 ##### Stages
 Stages of the game (Levels)
@@ -107,8 +108,9 @@ Taking damage will always lower your `dna score` so you will shrink.
 Grab hold, and eat entities in order to grow in size.
 ##### Eatable dangerous entities
 Will sometimes fly across the screen.
-- Birds: horizontal, will do its 'droppings' as soon as the tentacle? or mouth piece is below the bird.
+- Birds: horizontal, will do its 'droppings' as soon as the tentacle piece is below the bird.
 - Planes: Same as birds will show up in higher altitudes. Droppings are bombs/packets, may also shoot forward?
+- Different patterns to create a bullet-hell effect
 ##### Growth
 The more you eat the larger you'll become. This is done by scaling the background and setting a requirement of how much you must eat in order to go to the next stage.
 Taking damage will shrink you back down.
@@ -128,11 +130,13 @@ Questions:
 		- Differentiate between eatable entities and projectiles 
 #### Secondary
 ##### Tentacle slows down when grabbing entities
-Entities will have a weight factor influencing the speed of the tentacle. A house for example, can be very heavy but will make you grow faster.
-##### Sizes of mouths
-Your mouth will grow at set intervals during stages. It will increase the hitbox you have to eat entities,  but it will also make you more vulnerable to projectile damages.
-##### Shooting?
-#todo Add this to tentacle abilities?
+Entities will have a weight factor influencing the speed of the tentacle. An planet for example, can be very heavy but will make you grow faster.
+##### ~~Sizes of mouths~~
+~~Your mouth will grow at set intervals during stages. It will increase the hitbox you have to eat entities,  but it will also make you more vulnerable to projectile damages.~~
+##### Mouth grows based on size
+The mouth will only grow for astatic purposes
+##### ~~Shooting?~~
+~~Add this to tentacle abilities?~~
 ##### Upgrades?
 #todo Get to choose offense/defence upgrades?
 Powerup: eat everything on screen.
@@ -154,4 +158,34 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 - Tendril
 - Devourer of Worlds
 - Eternal Hunger
-- Perkish
+- Perish
+
+---
+## Remaining features
+### Must
+- Stage progression
+	- Proper entity spawning based on progression in scene (percentage of scene completion)
+- Spawner can also spawn entities above player field based on size
+	- ~~finite amount of points each point can spawn one entity untill destroyed/eaten~~
+- Entities:
+	- Red blood cell (same movement as com et)
+	- White Blood cell?
+	- Flies (same movement as birds)
+	- Caterpillars (wiggles, does not move)
+- Projectiles:
+	- FallingProjectile
+	- TargetedProjectile -> moves based on vector
+- Cell stage
+### Should
+- Growth of mouth piece
+- Decorative effects
+
+### Could
+- Entities:
+	- Ants
+### Won't
+- Touch controls
+- Tentacle gets stunned by projectiles
+- Entities:
+	- Static entities spawning from above
+	- Houses & buildings

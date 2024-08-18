@@ -15,6 +15,13 @@ Decide on an idea and start prototyping
 	- Shooting
 	- Upgrades
 - Continue development
+	- Component projectiles
+		- dropping
+		- target tentacle
+		- target mouth
+		- homing to tentacle?
+	- pulsating shader
+	- trail?
 ## Afternoon
 - Development
 # Monday
