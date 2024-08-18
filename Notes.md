@@ -66,7 +66,7 @@ The theme: **Built to Scale**
 	- Colony builder on ant scale.
 		- ![](<./attachments/Pasted image 20240816194024.png>)
 	- Town builder on human scale.
-		-  ![[concept.png]]![](./attachments/concept.png)
+		- ![](./attachments/concept.png)
 	- Solar system builder on planet scale
 		- ![](<./attachments/Pasted image 20240816194105.png>)
 	- ...
@@ -81,7 +81,7 @@ The theme: **Built to Scale**
 - ![](./attachments/IMG_1005.jpg)
 	- Pirate game -> increase fleet
 	- ⭐Giantraffe: Giraffe having to eat to get longer neck to eventually go to the moon.
-		- [Giantraffe](Giantraffe)
+		- ![Giantraffe](./Giantraffe.md)
 		- Eat leaves to get bigger neck
 		- airplane rates your score
 		- ![alt text](<attachments/Pasted image 20240816214219.png>)

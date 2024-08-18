@@ -138,3 +138,9 @@ Mobile friendly
 The game is played by the mouse, you control the head of the Giraffe.
 Click to spit
 
+## Names
+- Tendrill
+- Devourer of Worlds
+- Eternal Hunger
+- Perkish
+- 
