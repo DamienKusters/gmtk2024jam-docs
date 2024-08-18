@@ -95,6 +95,14 @@ Stages of the game (Levels)
 - Celestial Stage
 	- Gods
 - Cell stage -> wraps back to beginning
+##### Stage progression
+A stage is essentially a particular amount of distance you will need to travel in order to continue.
+Eating will add to that distance. This is in-game known as `dna score`.<br />
+Different entities will periodically spawn based on the current `dna score` thus altitude.<br />
+For simplicity, all stages require the same amount of `dna score`?
+Based on spawning of entities, a stage could go faster.
+Taking damage will always lower your `dna score` so you will shrink.
+
 ##### Eatable entities
 Grab hold, and eat entities in order to grow in size.
 ##### Eatable dangerous entities
@@ -104,11 +112,30 @@ Will sometimes fly across the screen.
 ##### Growth
 The more you eat the larger you'll become. This is done by scaling the background and setting a requirement of how much you must eat in order to go to the next stage.
 Taking damage will shrink you back down.
+While growing, entities will stay in place relative to the scaling background, this causes certain entities to accidentally touch the mouth piece and be consumed. 
+##### Taking damage
+Questions:
+- Should the mouth piece take damage?
+	- Pros:
+		- Tentacle must defend mouth piece by grapping or slapping projectiles away.
+	- Cons:
+		- You could play the game more wreck less, more slapping movement results in more projectiles being slapped away
+- Should the tentacle take damage?
+	- Pros:
+		- During gameplay you must be agile and have quick mouse movements, seems to improve the risk/reward factor when trying to eat an Dangerous entity
+		- Tentacle could be stunned 
+	- Cons:
+		- Differentiate between eatable entities and projectiles 
 #### Secondary
+##### Tentacle slows down when grabbing entities
+Entities will have a weight factor influencing the speed of the tentacle. A house for example, can be very heavy but will make you grow faster.
+##### Sizes of mouths
+Your mouth will grow at set intervals during stages. It will increase the hitbox you have to eat entities,  but it will also make you more vulnerable to projectile damages.
 ##### Shooting?
 #todo Add this to tentacle abilities?
 ##### Upgrades?
 #todo Get to choose offense/defence upgrades?
+Powerup: eat everything on screen.
 ##### Bosses?
 #todo On certain altitudes bosses may appear, being defeated will lower you to a previous altitude?
 
@@ -124,7 +151,7 @@ Mobile friendly
 The game is played by the mouse, you control the tip of the beast's tentacle.
 
 ## Game names
-- Tendrill
+- Tendril
 - Devourer of Worlds
 - Eternal Hunger
 - Perkish

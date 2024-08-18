@@ -7,11 +7,13 @@ Finish and show concepts to other parties
 Decide on an idea and start prototyping
 # Sunday
 ## Morning
-- Planning and feature list ~~Also new copy document on giraffe document~~
-	- Slower tendrils when dragging heavy objects
-	- Damage to mouth and tendrils
-	- Powerup: eat everything on screen.
-	- Sizes of mouths
+- Planning and feature list
+- Discuss secondary gameplay features
+	- Taking damage
+	- Projectiles slapping or dragging
+	- Mouth growth
+	- Shooting
+	- Upgrades
 - Continue development
 ## Afternoon
 - Development
