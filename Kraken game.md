@@ -169,9 +169,8 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 	- ~~finite amount of points each point can spawn one entity untill destroyed/eaten~~
 - Entities:
 	- Red blood cell (same movement as com et)
-	- White Blood cell?
+	- White Blood cell
 	- Flies (same movement as birds)
-	- Caterpillars (wiggles, does not move)
 - Projectiles:
 	- FallingProjectile
 	- TargetedProjectile -> moves based on vector
@@ -189,3 +188,55 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 - Entities:
 	- Static entities spawning from above
 	- Houses & buildings
+
+--- 
+## External assets
+### Must
+- Background music
+	- Per stage/level?
+- Kraken sounds
+	- Grabbing sound
+	- 'let go' sound
+	- Kraken is hurt /damaged sound
+	- Generic eating sound
+- Kraken visuals
+	 - Tentacle
+	 - Mouth
+		 - Open mouth
+		 - Closed mouth
+		 - Idle mouth
+	 - Tentacle grabbing frame
+ - Entity visuals
+	 - Red blood cell
+	 - White blood cell
+	 - Bird
+	 - Airplane
+	 - Planet
+	 - UFO
+ - Background visuals
+	 - Cell stage background
+	 - Cell stage background particles
+	 - Cell stage foreground particles
+### Should
+- Kraken roaring sounds
+- Eating sounds
+	- biological
+	- machine/iron/explosion
+ - Entity visuals
+	 - Meteorite
+	 - Helicopter
+- Background visuals
+	 - Cell stage background particles
+	 - Cell stage foreground particles
+
+### Could
+ - Entity visuals
+	 - Galaxy
+	 - A few different god like entities in deep space
+- Mouth piece visuals & open/closed/idle variants
+	- Small mouth
+	- Medium mouth
+	- Large mouth
+	- Giant mouth
+### Won't
+- Unique projectiles
