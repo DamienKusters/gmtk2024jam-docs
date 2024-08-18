@@ -242,3 +242,11 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 	- Giant mouth
 ### Won't
 - Unique projectiles
+
+Icons used:
+- https://www.flaticon.com/free-icon/globe_13645767?term=planet&page=1&position=14&origin=search&related_id=13645767
+- https://www.flaticon.com/free-icon/ant_16886923?term=ant&page=1&position=27&origin=search&related_id=16886923
+- https://www.flaticon.com/free-icon/plane_723978?term=plane&page=1&position=51&origin=search&related_id=723978
+- https://www.flaticon.com/free-icon/red-blood-cells_3055459?term=cell&page=1&position=12&origin=search&related_id=3055459
+- https://www.flaticon.com/free-icon/science_11407858?term=milkyway&page=1&position=1&origin=search&related_id=11407858
+- https://www.flaticon.com/free-icon/tree_502854?term=tree&page=1&position=15&origin=search&related_id=502854
