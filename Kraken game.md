@@ -191,28 +191,30 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 
 --- 
 ## External assets
+<u>**Crossed off = done/being worked on**</u>
 ### Must
 - Background music
 	- Per stage/level?
+- ~~Ambience music~~
 - Kraken sounds
 	- Grabbing sound
 	- 'let go' sound
 	- Kraken is hurt /damaged sound
 	- Generic eating sound
 - Kraken visuals
-	 - Tentacle
+	 - ~~Tentacle~~
 	 - Mouth
 		 - Open mouth
-		 - Closed mouth
-		 - Idle mouth
-	 - Tentacle grabbing frame
+		 - ~~Closed mouth~~
+		 - ~~Idle mouth~~
+	 - ~~Tentacle grabbing frame~~
  - Entity visuals
 	 - Red blood cell
 	 - White blood cell
 	 - Bird
 	 - Airplane
-	 - Planet
-	 - UFO
+	 - ~~Planet~~
+	 - ~~UFO~~
  - Background visuals
 	 - Cell stage background
 	 - Cell stage background particles
