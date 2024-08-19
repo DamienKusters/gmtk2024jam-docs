@@ -164,16 +164,28 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 ## Remaining features
 ### Must
 - Stage progression
-	- Proper entity spawning based on progression in scene (percentage of scene completion)
-- Spawner can also spawn entities above player field based on size
+	- ~~Proper entity spawning based on progression in scene (percentage of scene completion)~~
+	- Switch between stages once reached the max `dna score`
+- ~~Spawner can also spawn entities above player field based on size~~
 	- ~~finite amount of points each point can spawn one entity untill destroyed/eaten~~
 - Entities:
-	- Red blood cell (same movement as com et)
-	- White Blood cell
-	- Flies (same movement as birds)
+	- ~~Red blood cell (same movement as com et)~~
+	- ~~White Blood cell~~
+	- Flies (same movement as red blood cells)
+	- ?? enemy of bug stage
+	- Civ stage:
+		- AirPlane
+		- Helicopter
+		- hot air balloon?
+	- Solar stage:
+		- Planets
+		- meteorites
+		- Ufos
+	- Cosmic Stage:
+		- Godly beings
 - Projectiles:
-	- FallingProjectile
-	- TargetedProjectile -> moves based on vector
+	- ~~Directional Projectile~~
+	- Orbiting Projectile
 - Cell stage
 ### Should
 - Growth of mouth piece
@@ -243,10 +255,15 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 ### Won't
 - Unique projectiles
 
-Icons used:
+Assets used:
 - https://www.flaticon.com/free-icon/globe_13645767?term=planet&page=1&position=14&origin=search&related_id=13645767
-- https://www.flaticon.com/free-icon/ant_16886923?term=ant&page=1&position=27&origin=search&related_id=16886923
+- https://www.flaticon.com/free-icon/whale_2622034?term=whale&page=1&position=11&origin=search&related_id=2622034
 - https://www.flaticon.com/free-icon/plane_723978?term=plane&page=1&position=51&origin=search&related_id=723978
 - https://www.flaticon.com/free-icon/red-blood-cells_3055459?term=cell&page=1&position=12&origin=search&related_id=3055459
 - https://www.flaticon.com/free-icon/science_11407858?term=milkyway&page=1&position=1&origin=search&related_id=11407858
 - https://www.flaticon.com/free-icon/tree_502854?term=tree&page=1&position=15&origin=search&related_id=502854
+- https://kenney.nl/assets/background-elements-redux
+- https://opengameart.org/content/aquatic-theme
+- https://opengameart.org/content/deep-sea-creatures
+- https://www.kenney.nl/assets/pixel-shmup
+- https://opengameart.org/content/meteor-0
