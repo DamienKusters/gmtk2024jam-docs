@@ -185,13 +185,13 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 | M    | Entity: Planet                    | ✅       | ✅                     |
 | M    | Entity: UFO                       | ✅       | ✅                     |
 | M    | Entity: Meteorite                 | ✅       | ❌Temporary asset used |
-| M    | Entity: Galaxy                    | ❌       | ❌                     |
-| M    | Entity: Godlike being             | ❌       | ❌                     |
 | M    | Stage icon: Cell stage            | ✅       | ❌Temporary asset used |
 | M    | Stage icon: Ocean stage           | ✅       | ❌Temporary asset used |
 | M    | Stage icon: Civilisation stage    | ✅       | ❌Temporary asset used |
 | M    | Stage icon: Solar stage           | ✅       | ❌Temporary asset used |
-| M    | Stage icon: Cosmic stage          | ✅       | ❌Temporary asset used |
+| S    | Entity: Galaxy                    | ❌       | ❌                     |
+| S    | Entity: Godlike being             | ❌       | ❌                     |
+| S    | Stage icon: Cosmic stage          | ✅       | ❌Temporary asset used |
 | S    | Entity: Sun                       | ❌       | ❌                     |
 | S    | Background ambience sound         | ❌       | 🟦                    |
 | S    | Kraken sound: grabbing            | ❌       | ❌                     |
