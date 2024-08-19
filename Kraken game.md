@@ -172,7 +172,7 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 | M    | Tentacle closed                   | ✅       | ✅                     |
 | M    | Mouth neutral                     | ✅       | ✅                     |
 | M    | Mouth open                        | ✅       | ✅                     |
-| M    | Background music                  | ❌       | 🟦                    |
+| M    | Background music                  | ✅       | 🟦                    |
 | M    | Kraken sound: eating              | ❌       | ❌                     |
 | M    | Entity: Red blood cell            | ✅       | ✅                     |
 | M    | Entity: White blood cell          | ✅       | ✅                     |
@@ -185,11 +185,7 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 | M    | Entity: Planet                    | ✅       | ✅                     |
 | M    | Entity: UFO                       | ✅       | ✅                     |
 | M    | Entity: Meteorite                 | ✅       | ✅                     |
-| S    | Entity: Galaxy                    | ❌       | ❌                     |
-| S    | Entity: Godlike being             | ❌       | ❌                     |
-| S    | Stage icon: Cosmic stage          | ✅       | ❌Temporary asset used |
 | S    | Entity: Sun                       | ❌       | ❌                     |
-| S    | Background ambience sound         | ❌       | 🟦                    |
 | S    | Kraken sound: grabbing            | ✅       | ✅                     |
 | S    | Kraken sound: let go              | ✅       | ✅                     |
 | S    | Kraken sound: hurt/damage         | ✅       | ❌Temporary asset used |
@@ -199,7 +195,10 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 | C    | Stage icon: Ocean stage           | ✅       | ❌Temporary asset used |
 | C    | Stage icon: Civilisation stage    | ✅       | ❌Temporary asset used |
 | C    | Stage icon: Solar stage           | ✅       | ❌Temporary asset used |
-| W    | Unique Background music per stage | ❌       | ❌                     |
+| C    | Stage icon: Cosmic stage          | ❌       | ❌Temporary asset used |
+| C    | Entity: Galaxy                    | ❌       | ❌                     |
+| C    | Entity: Godlike being             | ❌       | ❌                     |
+| C    | Unique Background music per stage | ❌       | 🟦                    |
 | W    | Mouth closed                      | ❌       | ❌                     |
 
 ### External assets
