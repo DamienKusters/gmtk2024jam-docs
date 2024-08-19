@@ -209,8 +209,6 @@ Temporary assets used:
 - https://www.flaticon.com/free-icon/red-blood-cells_3055459?term=cell&page=1&position=12&origin=search&related_id=3055459
 - https://www.flaticon.com/free-icon/science_11407858?term=milkyway&page=1&position=1&origin=search&related_id=11407858
 - https://www.flaticon.com/free-icon/tree_502854?term=tree&page=1&position=15&origin=search&related_id=502854
-- https://kenney.nl/assets/background-elements-redux
 - https://opengameart.org/content/aquatic-theme
 - https://opengameart.org/content/deep-sea-creatures
-- ~~https://www.kenney.nl/assets/pixel-shmup~~
 - https://opengameart.org/content/meteor-0
