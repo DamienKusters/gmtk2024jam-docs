@@ -208,8 +208,5 @@ Temporary assets used:
 - https://www.flaticon.com/free-icon/whale_2622034?term=whale&page=1&position=11&origin=search&related_id=2622034
 - https://www.flaticon.com/free-icon/plane_723978?term=plane&page=1&position=51&origin=search&related_id=723978
 - https://www.flaticon.com/free-icon/red-blood-cells_3055459?term=cell&page=1&position=12&origin=search&related_id=3055459
-- https://www.flaticon.com/free-icon/science_11407858?term=milkyway&page=1&position=1&origin=search&related_id=11407858
-- https://www.flaticon.com/free-icon/tree_502854?term=tree&page=1&position=15&origin=search&related_id=502854
-- https://opengameart.org/content/aquatic-theme
+- ~~https://www.flaticon.com/free-icon/science_11407858?term=milkyway&page=1&position=1&origin=search&related_id=11407858~~
 - https://opengameart.org/content/deep-sea-creatures
-- https://opengameart.org/content/meteor-0
