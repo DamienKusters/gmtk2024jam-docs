@@ -172,33 +172,33 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 | M    | Tentacle closed                   | ✅       | ✅                     |
 | M    | Mouth neutral                     | ✅       | ✅                     |
 | M    | Mouth open                        | ✅       | ✅                     |
-| M    | Background music                  | ❌       | 🟦                     |
+| M    | Background music                  | ❌       | 🟦                    |
 | M    | Kraken sound: eating              | ❌       | ❌                     |
-| M    | Entity: Red blood cell            | ✅       | ❌Temporary asset used |
-| M    | Entity: White blood cell          | ✅       | ❌Temporary asset used |
+| M    | Entity: Red blood cell            | ✅       | ✅                     |
+| M    | Entity: White blood cell          | ✅       | ✅                     |
 | M    | Entity: Octopus                   | ✅       | ❌Temporary asset used |
-| M    | Entity: Killer Whale              | ✅       | ❌Temporary asset used |
-| M    | Entity: Blowfish                  | ✅       | ❌Temporary asset used |
+| M    | Entity: Killer Whale              | ✅       | ✅                     |
+| M    | Entity: Blowfish                  | ✅       | ✅                     |
 | M    | Entity: Jet fighter               | ✅       | ❌Temporary asset used |
 | M    | Entity: Attack helicopter         | ✅       | ❌Temporary asset used |
 | M    | Entity: Drone                     | ✅       | ❌Temporary asset used |
 | M    | Entity: Planet                    | ✅       | ✅                     |
 | M    | Entity: UFO                       | ✅       | ✅                     |
-| M    | Entity: Meteorite                 | ✅       | ❌Temporary asset used |
-| M    | Stage icon: Cell stage            | ✅       | ❌Temporary asset used |
-| M    | Stage icon: Ocean stage           | ✅       | ❌Temporary asset used |
-| M    | Stage icon: Civilisation stage    | ✅       | ❌Temporary asset used |
-| M    | Stage icon: Solar stage           | ✅       | ❌Temporary asset used |
+| M    | Entity: Meteorite                 | ✅       | ✅                     |
 | S    | Entity: Galaxy                    | ❌       | ❌                     |
 | S    | Entity: Godlike being             | ❌       | ❌                     |
 | S    | Stage icon: Cosmic stage          | ✅       | ❌Temporary asset used |
 | S    | Entity: Sun                       | ❌       | ❌                     |
 | S    | Background ambience sound         | ❌       | 🟦                    |
-| S    | Kraken sound: grabbing            | ❌       | ❌                     |
-| S    | Kraken sound: let go              | ❌       | ❌                     |
-| S    | Kraken sound: hurt/damage         | ❌       | ❌                     |
+| S    | Kraken sound: grabbing            | ✅       | ✅                     |
+| S    | Kraken sound: let go              | ✅       | ✅                     |
+| S    | Kraken sound: hurt/damage         | ✅       | ❌Temporary asset used |
 | S    | Kraken sound: roar                | ❌       | ❌                     |
 | C    | Explosion sound                   | ❌       | ❌                     |
+| C    | Stage icon: Cell stage            | ✅       | ❌Temporary asset used |
+| C    | Stage icon: Ocean stage           | ✅       | ❌Temporary asset used |
+| C    | Stage icon: Civilisation stage    | ✅       | ❌Temporary asset used |
+| C    | Stage icon: Solar stage           | ✅       | ❌Temporary asset used |
 | W    | Unique Background music per stage | ❌       | ❌                     |
 | W    | Mouth closed                      | ❌       | ❌                     |
 
