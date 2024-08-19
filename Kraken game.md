@@ -192,6 +192,7 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 | M    | Stage icon: Civilisation stage    | ✅       | ❌Temporary asset used |
 | M    | Stage icon: Solar stage           | ✅       | ❌Temporary asset used |
 | M    | Stage icon: Cosmic stage          | ✅       | ❌Temporary asset used |
+| S    | Entity: Sun                       | ❌       | ❌                     |
 | S    | Background ambience sound         | ❌       | 🟦                    |
 | S    | Kraken sound: grabbing            | ❌       | ❌                     |
 | S    | Kraken sound: let go              | ❌       | ❌                     |
