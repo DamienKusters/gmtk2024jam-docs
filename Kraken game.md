@@ -155,10 +155,20 @@ Mobile friendly
 The game is played by the mouse, you control the tip of the beast's tentacle.
 
 ## Game names
+- The Cosmic Maw
+- Eater of Eternity
+- Harbinger of Hunger
+- Cosmic Consumption
+- Tentacle Tyrant
+
 - Tendril
 - Devourer of Worlds
 - Eternal Hunger
 - Perish
+- cosmological horror 
+- Kraken
+- Kraking the Universe
+- Kraken's Tentacular Adventures
 
 ---
 ## Remaining features
