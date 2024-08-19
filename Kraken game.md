@@ -162,100 +162,47 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 
 ---
 ## Remaining features
-### Must
-- Stage progression
-	- ~~Proper entity spawning based on progression in scene (percentage of scene completion)~~
-	- Switch between stages once reached the max `dna score`
-- ~~Spawner can also spawn entities above player field based on size~~
-	- ~~finite amount of points each point can spawn one entity untill destroyed/eaten~~
-- Entities:
-	- ~~Red blood cell (same movement as com et)~~
-	- ~~White Blood cell~~
-	- Flies (same movement as red blood cells)
-	- ?? enemy of bug stage
-	- Civ stage:
-		- AirPlane
-		- Helicopter
-		- hot air balloon?
-	- Solar stage:
-		- Planets
-		- meteorites
-		- Ufos
-	- Cosmic Stage:
-		- Godly beings
-- Projectiles:
-	- ~~Directional Projectile~~
-	- Orbiting Projectile
-- Cell stage
-### Should
-- Growth of mouth piece
-- Decorative effects
+<u>**✅ = done**</u><br/>
+<u>**🟦 = being worked on**</u>
 
-### Could
-- Entities:
-	- Ants
-### Won't
-- Touch controls
-- Tentacle gets stunned by projectiles
-- Entities:
-	- Static entities spawning from above
-	- Houses & buildings
+| Prio | Asset                             | In game | State                 |
+|------|-----------------------------------|---------|-----------------------|
+| M    | Name of the game                  | ❌       | ❌                     |
+| M    | Tentacle neutral                  | ✅       | ✅                     |
+| M    | Tentacle closed                   | ✅       | ✅                     |
+| M    | Mouth neutral                     | ✅       | ✅                     |
+| M    | Mouth open                        | ✅       | ✅                     |
+| M    | Background music                  | ❌       | ❌                     |
+| M    | Kraken sound: eating              | ❌       | ❌                     |
+| M    | Entity: Red blood cell            | ✅       | ❌Temporary asset used |
+| M    | Entity: White blood cell          | ✅       | ❌Temporary asset used |
+| M    | Entity: Octopus                   | ✅       | ❌Temporary asset used |
+| M    | Entity: Killer Whale              | ✅       | ❌Temporary asset used |
+| M    | Entity: Blowfish                  | ✅       | ❌Temporary asset used |
+| M    | Entity: Jet fighter               | ✅       | ❌Temporary asset used |
+| M    | Entity: Attack helicopter         | ✅       | ❌Temporary asset used |
+| M    | Entity: Drone                     | ✅       | ❌Temporary asset used |
+| M    | Entity: Planet                    | ✅       | ✅                     |
+| M    | Entity: UFO                       | ✅       | ✅                     |
+| M    | Entity: Meteorite                 | ✅       | ❌Temporary asset used |
+| M    | Entity: Galaxy                    | ❌       | ❌                     |
+| M    | Entity: Godlike being             | ❌       | ❌                     |
+| M    | Stage icon: Cell stage            | ✅       | ❌Temporary asset used |
+| M    | Stage icon: Ocean stage           | ✅       | ❌Temporary asset used |
+| M    | Stage icon: Civilisation stage    | ✅       | ❌Temporary asset used |
+| M    | Stage icon: Solar stage           | ✅       | ❌Temporary asset used |
+| M    | Stage icon: Cosmic stage          | ✅       | ❌Temporary asset used |
+| S    | Background ambience sound         | ❌       | 🟦                    |
+| S    | Kraken sound: grabbing            | ❌       | ❌                     |
+| S    | Kraken sound: let go              | ❌       | ❌                     |
+| S    | Kraken sound: hurt/damage         | ❌       | ❌                     |
+| S    | Kraken sound: roar                | ❌       | ❌                     |
+| C    | Explosion sound                   | ❌       | ❌                     |
+| W    | Unique Background music per stage | ❌       | ❌                     |
+| W    | Mouth closed                      | ❌       | ❌                     |
 
---- 
-## External assets
-<u>**Crossed off = done/being worked on**</u>
-### Must
-- Background music
-	- Per stage/level?
-- ~~Ambience music~~
-- Kraken sounds
-	- Grabbing sound
-	- 'let go' sound
-	- Kraken is hurt /damaged sound
-	- Generic eating sound
-- Kraken visuals
-	 - ~~Tentacle~~
-	 - Mouth
-		 - Open mouth
-		 - ~~Closed mouth~~
-		 - ~~Idle mouth~~
-	 - ~~Tentacle grabbing frame~~
- - Entity visuals
-	 - Red blood cell
-	 - White blood cell
-	 - Bird
-	 - Airplane
-	 - ~~Planet~~
-	 - ~~UFO~~
- - Background visuals
-	 - Cell stage background
-	 - Cell stage background particles
-	 - Cell stage foreground particles
-### Should
-- Kraken roaring sounds
-- Eating sounds
-	- biological
-	- machine/iron/explosion
- - Entity visuals
-	 - Meteorite
-	 - Helicopter
-- Background visuals
-	 - Cell stage background particles
-	 - Cell stage foreground particles
-
-### Could
- - Entity visuals
-	 - Galaxy
-	 - A few different god like entities in deep space
-- Mouth piece visuals & open/closed/idle variants
-	- Small mouth
-	- Medium mouth
-	- Large mouth
-	- Giant mouth
-### Won't
-- Unique projectiles
-
-Assets used:
+### External assets
+Temporary assets used:
 - https://www.flaticon.com/free-icon/globe_13645767?term=planet&page=1&position=14&origin=search&related_id=13645767
 - https://www.flaticon.com/free-icon/whale_2622034?term=whale&page=1&position=11&origin=search&related_id=2622034
 - https://www.flaticon.com/free-icon/plane_723978?term=plane&page=1&position=51&origin=search&related_id=723978
@@ -265,5 +212,5 @@ Assets used:
 - https://kenney.nl/assets/background-elements-redux
 - https://opengameart.org/content/aquatic-theme
 - https://opengameart.org/content/deep-sea-creatures
-- https://www.kenney.nl/assets/pixel-shmup
+- ~~https://www.kenney.nl/assets/pixel-shmup~~
 - https://opengameart.org/content/meteor-0
