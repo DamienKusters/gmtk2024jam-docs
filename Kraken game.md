@@ -172,7 +172,7 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 | M    | Tentacle closed                   | ✅       | ✅                     |
 | M    | Mouth neutral                     | ✅       | ✅                     |
 | M    | Mouth open                        | ✅       | ✅                     |
-| M    | Background music                  | ❌       | ❌                     |
+| M    | Background music                  | ❌       | 🟦                     |
 | M    | Kraken sound: eating              | ❌       | ❌                     |
 | M    | Entity: Red blood cell            | ✅       | ❌Temporary asset used |
 | M    | Entity: White blood cell          | ✅       | ❌Temporary asset used |
