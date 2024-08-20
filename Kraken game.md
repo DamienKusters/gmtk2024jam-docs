@@ -178,20 +178,20 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 | Prio | Asset                           | In game | State                 |
 |------|---------------------------------|---------|-----------------------|
 | M    | <u>**Name of the game**</u>     | ❌       | ❌                     |
-| M    | <u>**Kraken sound: eating**</u> | ❌       | ❌                     |
+| M    | <u>**Kraken sound: eating**</u> | ❌       | 🟦                    |
 | M    | <u>**Entity: Octopus**</u>      | ✅       | ❌Temporary asset used |
 | M    | <u>**Entity: Drone**</u>        | ✅       | ❌Temporary asset used |
 | S    | Entity: Sun                     | ❌       | ❌                     |
-| S    | Kraken sound: hurt/damage       | ✅       | ❌Temporary asset used |
-| S    | Kraken sound: roar              | ❌       | ❌                     |
+| S    | Kraken sound: hurt/damage       | ✅       | 🟦                    |
+| S    | Kraken sound: roar              | ❌       | 🟦                     |
 | C    | Explosion sound                 | ❌       | ❌                     |
 | C    | Stage icon: Cell stage          | ✅       | ❌Temporary asset used |
 | C    | Stage icon: Ocean stage         | ✅       | ❌Temporary asset used |
 | C    | Stage icon: Civilisation stage  | ✅       | ❌Temporary asset used |
 | C    | Stage icon: Solar stage         | ✅       | ❌Temporary asset used |
 | C    | Stage icon: Cosmic stage        | ❌       | ❌Temporary asset used |
-| C    | - BGM Civilisation Stage        | ❌       | ❌                     |
-| C    | - BGM Credits Stage             | ❌       | ❌                     |
+| C    | Music Civilisation Stage        | ❌       | ❌                     |
+| C    | Music Credits Stage             | ❌       | ❌                     |
 | C    | Entity: Galaxy                  | ❌       | ❌                     |
 | C    | Entity: Godlike being           | ❌       | ❌                     |
 | W    | Mouth closed                    | ❌       | ❌                     |
@@ -202,7 +202,6 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 | M    | Tentacle closed              | ✅       | ✅     |
 | M    | Mouth neutral                | ✅       | ✅     |
 | M    | Mouth open                   | ✅       | ✅     |
-| M    | Background music             | ✅       | 🟦    |
 | M    | Entity: Red blood cell       | ✅       | ✅     |
 | M    | Entity: White blood cell     | ✅       | ✅     |
 | M    | Entity: Killer Whale         | ✅       | ✅     |
@@ -214,10 +213,10 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 | M    | Entity: Meteorite            | ✅       | ✅     |
 | S    | Kraken sound: grabbing       | ✅       | ✅     |
 | S    | Kraken sound: let go         | ✅       | ✅     |
-| C    | Unique Background music(BGM) | ✅       | 🟦    |
+| C    | Unique Background music(BGM) | ✅       | ✅    |
 | C    | - BGM Cell Stage             | ✅       | ✅     |
 | C    | - BGM Ocean Stage            | ✅       | ✅     |
-| C    | - BGM Solar Stage            | ❌       | 🟦    |
+| C    | - BGM Solar Stage            | ✅       | ✅    |
 
 ### External assets
 Temporary assets used:
