@@ -181,8 +181,6 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 | M    | <u>**Game Logo**</u>        | ❌       | ❌                      |
 | M    | Entity: Octopus             | ✅       | 🟦External asset used  |
 | M    | Entity: Drone               | ✅       | 🟦Temporary asset used |
-| S    | Timer system                | ❌       | ❌                      |
-| S    | Save game system            | ❌       | ❌                      |
 | C    | Kraken sound: roar          | ❌       | ❌                      |
 | C    | Explosion sound             | ❌       | ❌                      |
 | C    | Music Civilisation Stage    | ❌       | ❌                      |
@@ -208,6 +206,8 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 | M    | Entity: Meteorite                        | ✅       | ✅                     |
 | M    | Kraken scales based on stage progression | ✅       | ✅                     |
 | S    | Main menu                                | ✅       | ✅                     |
+| S    | Timer system                             | ✅       | ✅                     |
+| S    | Save game system                         | ✅       | ✅                     |
 | S    | Kraken sound: hurt/damage                | ✅       | ✅                     |
 | S    | Kraken sound: grabbing                   | ✅       | ✅                     |
 | S    | Kraken sound: let go                     | ✅       | ✅                     |
