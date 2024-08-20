@@ -175,54 +175,54 @@ The game is played by the mouse, you control the tip of the beast's tentacle.
 <u>**✅ = done**</u><br/>
 <u>**🟦 = being worked on**</u>
 
+| Prio | Asset                       | In game | State                  |
+|------|-----------------------------|---------|------------------------|
+| M    | <u>**Name of the game**</u> | ❌       | ❌                      |
+| M    | <u>**Game Logo**</u>        | ❌       | ❌                      |
+| M    | Entity: Octopus             | ✅       | 🟦External asset used  |
+| M    | Entity: Drone               | ✅       | 🟦Temporary asset used |
+| S    | Timer system                | ❌       | ❌                      |
+| S    | Save game system            | ❌       | ❌                      |
+| C    | Kraken sound: roar          | ❌       | ❌                      |
+| C    | Explosion sound             | ❌       | ❌                      |
+| C    | Music Civilisation Stage    | ❌       | ❌                      |
+| C    | Entity: Sun                 | ❌       | ❌                      |
+| C    | Music Credits Stage         | ❌       | ❌                      |
+
+
 | Prio | Asset                                    | In game | State                 |
 |------|------------------------------------------|---------|-----------------------|
-| M    | <u>**Name of the game**</u>              | ❌       | ❌                     |
-| M    | <u>**Game Logo**</u>                     | ❌       | ❌                     |
-| M    | Kraken scales based on stage progression | ❌       | ✅                     |
-| M    | Entity: Octopus                          | ✅       | ✅External asset used  |
-| M    | Entity: Drone                            | ✅       | ✅Temporary asset used |
-| S    | Timer system                             | ❌       | ❌                     |
-| S    | Save game system                         | ❌       | ❌                     |
-| S    | Entity: Sun                              | ❌       | ❌                     |
-| S    | Kraken sound: roar                       | ❌       | ❌                     |
-| C    | Explosion sound                          | ❌       | ❌                     |
-| C    | Music Civilisation Stage                 | ❌       | ❌                     |
-| C    | Music Credits Stage                      | ❌       | ❌                     |
-| C    | Entity: Galaxy                           | ❌       | ❌                     |
-| C    | Entity: Godlike being                    | ❌       | ❌                     |
-
-
-| Prio | Asset                          | In game | State                 |
-|------|--------------------------------|---------|-----------------------|
-| M    | Kraken sound: eating           | ✅       | ✅                     |
-| M    | Tentacle neutral               | ✅       | ✅                     |
-| M    | Tentacle closed                | ✅       | ✅                     |
-| M    | Mouth neutral                  | ✅       | ✅                     |
-| M    | Mouth open                     | ✅       | ✅                     |
-| M    | Entity: Red blood cell         | ✅       | ✅                     |
-| M    | Entity: White blood cell       | ✅       | ✅                     |
-| M    | Entity: Killer Whale           | ✅       | ✅                     |
-| M    | Entity: Blowfish               | ✅       | ✅                     |
-| M    | Entity: Jet fighter            | ✅       | ✅                     |
-| M    | Entity: Attack helicopter      | ✅       | ✅                     |
-| M    | Entity: Planet                 | ✅       | ✅                     |
-| M    | Entity: UFO                    | ✅       | ✅                     |
-| M    | Entity: Meteorite              | ✅       | ✅                     |
-| S    | Main menu                      | ✅       | ✅                     |
-| S    | Kraken sound: hurt/damage      | ✅       | ✅                     |
-| S    | Kraken sound: grabbing         | ✅       | ✅                     |
-| S    | Kraken sound: let go           | ✅       | ✅                     |
-| C    | Stage icon: Cell stage         | ✅       | ✅                     |
-| C    | Stage icon: Ocean stage        | ✅       | ✅                     |
-| C    | Stage icon: Civilisation stage | ✅       | ✅                     |
-| C    | Stage icon: Solar stage        | ✅       | ✅                     |
-| C    | Unique Background music(BGM)   | ✅       | ✅                     |
-| C    | - BGM Cell Stage               | ✅       | ✅                     |
-| C    | - BGM Ocean Stage              | ✅       | ✅                     |
-| C    | - BGM Solar Stage              | ✅       | ✅                     |
-| W    | Stage icon: Cosmic stage       | ❌       | ❌Temporary asset used |
-| W    | Mouth closed                   | ❌       | ❌                     |
+| M    | Kraken sound: eating                     | ✅       | ✅                     |
+| M    | Tentacle neutral                         | ✅       | ✅                     |
+| M    | Tentacle closed                          | ✅       | ✅                     |
+| M    | Mouth neutral                            | ✅       | ✅                     |
+| M    | Mouth open                               | ✅       | ✅                     |
+| M    | Entity: Red blood cell                   | ✅       | ✅                     |
+| M    | Entity: White blood cell                 | ✅       | ✅                     |
+| M    | Entity: Killer Whale                     | ✅       | ✅                     |
+| M    | Entity: Blowfish                         | ✅       | ✅                     |
+| M    | Entity: Jet fighter                      | ✅       | ✅                     |
+| M    | Entity: Attack helicopter                | ✅       | ✅                     |
+| M    | Entity: Planet                           | ✅       | ✅                     |
+| M    | Entity: UFO                              | ✅       | ✅                     |
+| M    | Entity: Meteorite                        | ✅       | ✅                     |
+| M    | Kraken scales based on stage progression | ✅       | ✅                     |
+| S    | Main menu                                | ✅       | ✅                     |
+| S    | Kraken sound: hurt/damage                | ✅       | ✅                     |
+| S    | Kraken sound: grabbing                   | ✅       | ✅                     |
+| S    | Kraken sound: let go                     | ✅       | ✅                     |
+| C    | Stage icon: Cell stage                   | ✅       | ✅                     |
+| C    | Stage icon: Ocean stage                  | ✅       | ✅                     |
+| C    | Stage icon: Civilisation stage           | ✅       | ✅                     |
+| C    | Stage icon: Solar stage                  | ✅       | ✅                     |
+| C    | Unique Background music(BGM)             | ✅       | ✅                     |
+| C    | - BGM Cell Stage                         | ✅       | ✅                     |
+| C    | - BGM Ocean Stage                        | ✅       | ✅                     |
+| C    | - BGM Solar Stage                        | ✅       | ✅                     |
+| W    | Entity: Galaxy                           | ❌       | ❌                     |
+| W    | Entity: Godlike being                    | ❌       | ❌                     |
+| W    | Stage icon: Cosmic stage                 | ❌       | ❌Temporary asset used |
+| W    | Mouth closed                             | ❌       | ❌                     |
 
 ### External assets
 Temporary assets used:
